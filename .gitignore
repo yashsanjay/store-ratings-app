@@ -1,6 +1,3 @@
-
-### `store-ratings-app/.gitignore`
-```gitignore
 # Node
 node_modules
 npm-debug.log*
@@ -10,12 +7,10 @@ yarn-error.log*
 # Env
 .env
 
-# Prisma
-backend/prisma/dev.db
-
 # Build
 dist
 build
 
 # OS
 .DS_Store
+Thumbs.db
